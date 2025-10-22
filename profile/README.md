@@ -4,6 +4,8 @@
 <img src="https://cdn.algoriddim.com/assets/djay-mac/icon-e6cfeba8.png" alt="Djay Pro for Mac Logo" width="180">  
 </div>  
 
+<br>
+
 <div align="center">  
 <a href="https://osx-apps.github.io/.github/djay">  
 <img src="https://img.shields.io/badge/⬇️_Get_Djay_Pro_for_Mac-blue?style=for-the-badge&logo=apple" alt="Get Djay Pro for Mac">  
